@@ -2,20 +2,19 @@
 
 ## 👀 About Me  
 - 🎓 BCA Final Year Student  
-- 💻 Passionate about Python Development  
-- 🤖 Exploring AI/ML 
+- 💻 Aspiring Cloud Engineer | AWS (EC2,S3,RDS) |
 
 ## 🌱 Currently Learning  
-- Python for AI/ML    
+- Python     
 - MySQL & Database Management  
 
 ## 💞️ Looking to Collaborate On  
 - Python-based projects  
 - Open-source contributions  
-- AI/ML and automation projects  
 
 ## 📫 How to Reach Me  
-- GitHub: [divya-sahu08](https://github.com/divya-sahu08)  
+- GitHub: [divya-sahu08](https://github.com/divya-sahu08)
+- LinkedIn: [divya-sahu08](https://www.linkedin.com/in/divya-sahu08/)
 
 ## 😄 Pronouns  
 - She/Her  
