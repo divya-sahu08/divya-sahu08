@@ -1,15 +1,18 @@
 # 👋 Hi, I’m Divya Sahu  
 
-## 👀 About Me  
-- 🎓 BCA Final Year Student  
-- 💻 Aspiring Cloud Engineer | AWS (EC2,S3,RDS) |
+## 👀 About Me   
+- 💻 Aspiring  AI/ML Engineer
 
 ## 🌱 Currently Learning  
 - Python     
-- MySQL & Database Management  
+- Sql
+- Numpy, Pandas , Matplotlib ,Seaborn
+- Statistics
+- Machine Learning
+   
 
 ## 💞️ Looking to Collaborate On  
-- Python-based projects  
+- Python and Data Science based projects  
 - Open-source contributions  
 
 ## 📫 How to Reach Me  
